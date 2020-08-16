@@ -123,7 +123,7 @@ draft: false
 
 Layout에서 노드의 화면 구상이 다 이뤄지면, Paint 이벤트를 통해 노드들은 화면에 픽셀로 변환한다. 텍스트, 색, 이미지 등 모든 시각적인 요소들이 입혀진다. 이를 Painting 또는 Rasterizing 이라고 하며, Layer가 여러개인 경우 이를 합성해 하나의 bitmap을 만드는 작업은 compositing이라고 한다
 
-### 레더링 엔진의 메인 Flow
+### 렌더링 엔진의 메인 Flow
 
 - Webkit 엔진
   ![image alt](https://user-images.githubusercontent.com/35126809/90095491-c421a580-dd6b-11ea-9fd7-3c83e36e3913.png)  
