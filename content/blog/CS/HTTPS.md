@@ -5,7 +5,7 @@ category: 'CS'
 draft: false
 ---
 
-2020.09.02 최형동
+2020.09.06 최형동
 <br/><br/><br/>
 HTTPS는 Hypertext Transfer Protocol Over Secure Socket Layer
 
